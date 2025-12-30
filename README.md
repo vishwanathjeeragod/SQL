@@ -10,9 +10,9 @@
 
 ## Day2 ##
 **Topics Coverd**
-1. Database Operations:
+1. Database Operations:-
              Created a new database and learned how to rename the database when needed.
-2. Table Rename:
+2. Table Rename:-
              Renamed an existing table to a new name using basic SQL commands.
-3. Add Column:
+3. Add Column:-
             Added new columns to an existing table to store additional data.
