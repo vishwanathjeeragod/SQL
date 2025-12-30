@@ -16,7 +16,3 @@
              Renamed an existing table to a new name using basic SQL commands.
 3. Add Column:
             Added new columns to an existing table to store additional data.
-4. Drop Column:
-            Removed unnecessary columns from a table.
-5. Drop Table / Database:
-            Learned how to delete a table and a database safely when they are no longer required.
