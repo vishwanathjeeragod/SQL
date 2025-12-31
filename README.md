@@ -16,3 +16,12 @@
              Renamed an existing table to a new name using basic SQL commands.
 3. Add Column:-
             Added new columns to an existing table to store additional data.
+
+
+## Day3 ##
+**Topics Coverd**
+
+1. UPDATE:- Used to modify existing data using SET and WHERE.
+2. DELETE:- Used to remove records from a table using WHERE.
+3. WHERE Clause:- Filters specific rows and prevents changes to all data.           
+
