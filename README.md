@@ -23,5 +23,12 @@
 
 1. UPDATE:- Used to modify existing data using SET and WHERE.
 2. DELETE:- Used to remove records from a table using WHERE.
-3. WHERE Clause:- Filters specific rows and prevents changes to all data.           
+3. WHERE Clause:- Filters specific rows and prevents changes to all data.
+
+## Day4 ##
+**Topics Coverd**
+1. ORDER BY:-Used to sort the result set in ascending (ASC) or descending (DESC) order based on one or more columns.
+2. GROUP BY:-Used to group rows with the same values and commonly used with aggregate functions like COUNT, SUM, AVG.
+3. JOIN:-Used to combine data from two or more tables based on a related column between them.
+4. SAVEPOINT:-Used inside a transaction to mark a point where we can roll back partially without affecting the entire transaction.
 
