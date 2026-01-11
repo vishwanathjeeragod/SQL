@@ -32,3 +32,9 @@
 3. JOIN:-Used to combine data from two or more tables based on a related column between them.
 4. SAVEPOINT:-Used inside a transaction to mark a point where we can roll back partially without affecting the entire transaction.
 
+## Day5 ##
+**Topics Coverd**
+1. Employee Table:-Created employee table using CREATE TABLE.
+2. Insert Values:-Inserted employee data using INSERT INTO.
+3. UNION:- . Combined multiple SELECT results using UNION.
+           . UNION ALL used to show duplicate records.
