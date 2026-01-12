@@ -38,3 +38,9 @@
 2. Insert Values:-Inserted employee data using INSERT INTO.
 3. UNION:- . Combined multiple SELECT results using UNION.
            . UNION ALL used to show duplicate records.
+
+
+## Day6 ##
+**Topics Coverd**
+1. ORDER BY with Union:-Used ORDER BY with UNION to sort the final combined result set from multiple SELECT queries.
+2. ALTER TABLE:-Learned how to modify an existing table structure by adding, changing, or dropping columns using ALTER TABLE.
